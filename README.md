@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## Datos
 
-Los datos no se incluyen en el repositorio. Descarga los CSV desde la [página de datos de la competencia](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data), que requiere una cuenta gratuita de Kaggle, y colócalos en `data/raw/`. Como `data/` no se versiona, debes crear esa carpeta después de clonar:
+Los datos no se incluyen en el repositorio. Descarga los CSV desde la [página de datos de la competencia](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data), que requiere una cuenta gratuita de Kaggle, y colócalos en `data/raw/`:
 
 ```
 data/raw/
@@ -75,3 +75,8 @@ jupyter notebook notebooks/01_exploratory_data_analysis.ipynb
 ```
 
 Las secciones dependen de la limpieza hecha en las secciones anteriores, así que el notebook debe ejecutarse completo y en orden.
+
+
+## Evidencia de pull de cada integrante
+
+![Pull de Sergio Mena](reports/pull_screenshots/pull_sergio_mena.png)
