@@ -80,3 +80,5 @@ Las secciones dependen de la limpieza hecha en las secciones anteriores, así qu
 ## Evidencia de pull de cada integrante
 
 ![Pull de Sergio Mena](reports/pull_screenshots/pull_sergio_mena.png)
+![Pull de Rita Santa Cruz](reports/pull_screenshots/pull_Rita_SantaCruz.png)
+![Pull de Rita Santa Cruz](reports/pull_screenshots/pull_Rita_SantaCruz2.png)
